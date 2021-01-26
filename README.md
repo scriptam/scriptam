@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Principal Software Engineering Manager at [@microsoft](https://github.com/microsoft), working on One Engineering System (1ES) with [@github](https://github.com/github), previously Principal Architect for [AppCenter](https://appcenter.ms) & [Mobile DevOps Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines), and Principal Manager for Enterprise Mobility at [@xamarin](https://github.com/xamarin).
+I'm a Principal Software Engineering Manager at [@microsoft](https://github.com/microsoft), working on One Engineering System (1ES) with [@github](https://github.com/github), previously Principal Architect for [AppCenter](https://appcenter.ms) & [Mobile DevOps Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines), and Principal Manager at [@xamarin](https://github.com/xamarin).
 
 <p>
    <a href="https://github.com/scriptam" rel="nofollow">
