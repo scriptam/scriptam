@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Principal Software Engineering Manager at [@microsoft](https://github.com/microsoft), working on One Engineering System (1ES) with [@github](https://github.com/github), previously at [@xamarin](https://github.com/xamarin).
+I'm a Principal Software Engineering Manager at [@microsoft](https://github.com/microsoft), working with [@github](https://github.com/github) on One Engineering System, previously at [@xamarin](https://github.com/xamarin).
 
 <p>
    <a href="https://github.com/scriptam" rel="nofollow">
