@@ -12,4 +12,6 @@ I'm a Principal Software Engineering Manager at [@microsoft](https://github.com/
   </a>
 </p>
 
+<!--
 ✨ We're hiring - if you're passionate about developer tooling, come join us! [MS Careers](https://careers.microsoft.com) & [GH Careers](https://github.com/about/careers)
+-->
